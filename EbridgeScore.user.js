@@ -45,7 +45,7 @@
             let tt = document.createElement("tr");
             let t = document.createElement("td");
             t.className='sv-col-md-2';
-            t.innerText = '本插件由InfoCo计算机社WYN制作 ---- Made by InfoCo Computer Club';
+            t.innerText = '本插件由InfoCo计算机社WYN制作 --- Made by InfoCo Computer Club';
             tt.appendChild(t);
             table.insertBefore(tt,table.firstChild);
             table.insertBefore(logo, table.firstChild);
